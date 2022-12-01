@@ -28,13 +28,8 @@
 
 
 [![My Github Stats](https://github-readme-stats.vercel.app/api?username=jodavid444)](https://github.com/anuraghazra/github-readme-stats) 
+<br>
 [![GitHub Streak](https://streak-stats.demolab.com/?user=jodavid444)](https://git.io/streak-stats)
-
-<div style="display:flex; justify-content:center; align-content:center; align-items:center;">
-  &nbsp;[![My Github Stats](https://github-readme-stats.vercel.app/api?username=jodavid444)](https://github.com/anuraghazra/github-readme-stats) 
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=jodavid444)](https://git.io/streak-stats)
-
-</div>
 
 
   
