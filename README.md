@@ -27,7 +27,14 @@
 ![rails](https://user-images.githubusercontent.com/68030297/194183560-55e87cce-26e1-4622-b7bd-3fd40df4e9b0.svg)
 
 
-[![My Github Stats](https://github-readme-stats.vercel.app/api?username=jodavid444)](https://github.com/anuraghazra/github-readme-stats) [![GitHub Streak](https://streak-stats.demolab.com/?user=jodavid444)](https://git.io/streak-stats)
+[![My Github Stats](https://github-readme-stats.vercel.app/api?username=jodavid444)](https://github.com/anuraghazra/github-readme-stats) 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=jodavid444)](https://git.io/streak-stats)
+
+<div style="display:flex; justify-content:center; align-content:center; align-items:center;">
+  &nbsp;[![My Github Stats](https://github-readme-stats.vercel.app/api?username=jodavid444)](https://github.com/anuraghazra/github-readme-stats) 
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=jodavid444)](https://git.io/streak-stats)
+
+</div>
 
 
   
