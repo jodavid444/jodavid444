@@ -26,9 +26,9 @@
 ![ruby](https://user-images.githubusercontent.com/68030297/194183546-d428a684-f845-4a4d-95c2-d3f09d9287df.svg)
 ![rails](https://user-images.githubusercontent.com/68030297/194183560-55e87cce-26e1-4622-b7bd-3fd40df4e9b0.svg)
 
-<div>
+
 [![My Github Stats](https://github-readme-stats.vercel.app/api?username=jodavid444)](https://github.com/anuraghazra/github-readme-stats)
+</br>
 [![GitHub Streak](https://streak-stats.demolab.com/?user=jodavid444)](https://git.io/streak-stats)
-</div>
 
   
