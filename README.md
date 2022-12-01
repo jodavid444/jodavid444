@@ -28,7 +28,7 @@
 
 
 [![My Github Stats](https://github-readme-stats.vercel.app/api?username=jodavid444)](https://github.com/anuraghazra/github-readme-stats)
-</br>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=jodavid444)](https://git.io/streak-stats)
+&nbsp,[![GitHub Streak](https://streak-stats.demolab.com/?user=jodavid444)](https://git.io/streak-stats)
+
 
   
