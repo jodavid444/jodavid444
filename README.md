@@ -9,9 +9,6 @@
 - 💬 Ask me about Javascript, React, Redux, Ruby on Rails, Python
 - 📫 Reach me through **jodavid444dave@gmail.com**
 - ⚡ Fun fact: Music, Swimming, Foodie and Coding
-- 💻 Built a Portfolio website that shows full deails of a software developer professionally way working with HTMl, CSS and JavaScript.
-- 💻 Built a React online Summits website working with Sass and Bootstrap it host event virtually and enlighten new features of react to software developers world wide.
-- 💻 Collabrated on a group project using react, ruby and rails to create a movie website.
 
 
 ## Connect with me on<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="70">
