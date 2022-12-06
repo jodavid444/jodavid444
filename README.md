@@ -15,7 +15,7 @@
 <a href="jodavid444dave@gmail.com">![EMAIL (2)](https://user-images.githubusercontent.com/68030297/194710587-78e1cc36-de48-4c31-832e-f08970c836be.svg)
 </a>
 [![linkdin](https://user-images.githubusercontent.com/68030297/194533472-feb45d0c-a777-4244-a453-0c7e73281137.svg)](https://www.linkedin.com/in/joseph-david-01a8a5243/)
-[![TWITTER](https://user-images.githubusercontent.com/68030297/194710865-8ab92771-79ed-4ebd-b333-b0835ef346f3.svg)](https://github.com/jodavid444dave)
+[![TWITTER](https://user-images.githubusercontent.com/68030297/194710865-8ab92771-79ed-4ebd-b333-b0835ef346f3.svg)](https://twitter.com/jodavid444dave)
 
 ## Stacks <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">
 ![css](https://user-images.githubusercontent.com/68030297/194180629-b2bd092e-8c71-4032-acfa-55f13b7a095a.svg)
