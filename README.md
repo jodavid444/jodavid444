@@ -1,10 +1,15 @@
+ <img height="27%" src="Add a heading.jpg" alt="">
+
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=mkaya13&label=Profile%20views&color=0e75b6&style=flat" alt="mkaya13" /> </p>
+
+   
+    
 <h1 align="left">Hi 👋, I'm Joseph David</h1>
-<img height="30%" src="Add a heading.jpg" alt="">
+</hr>
 
 <h2 align="left">A passionate Full-stack Software Developer from Nigeria.</h2>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mkaya13&label=Profile%20views&color=0e75b6&style=flat" alt="mkaya13" /> </p>
 
 - 🌱 I’m currently learning Full-stack web development in a remote multicultural environment at [Microverse](https://www.microverse.org/)
 - 🔭 I’m currently working on Api, React and other collaborated Projects
