@@ -1,6 +1,6 @@
  <img height="300" width="900" src="Add a heading.jpg" alt="">
 
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=mkaya13&label=Profile%20views&color=0e75b6&style=flat" alt="mkaya13" /> </p>
+<img width=500 height=250 src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif">
 
    
     
