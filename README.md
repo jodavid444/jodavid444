@@ -1,5 +1,3 @@
- <img height="300" width="900" src="Add a heading.jpg" alt="">
-
 <img width=500 height=250 src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif">
 
    
