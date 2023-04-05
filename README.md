@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/76779409/170862828-81861544-0bf3-4780-9c5b-b3f309c88998.gif">
+<img src="Screenshot 2023-04-05 164504.png" alt="">
    
     
 <h1 align="left">Hi 👋, I'm Joseph David</h1>
