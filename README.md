@@ -1,7 +1,6 @@
+<h2 align="left">Hi 👋, I'm Joseph David</h2>
+
 <img src="Screenshot 2023-04-05 164504.png" alt="">
-   
-    
-<h1 align="left">Hi 👋, I'm Joseph David</h1>
 </hr>
 
 <h2 align="left">A Passionate Full-Stack Software Developer From Nigeria.</h2>
