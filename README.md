@@ -1,4 +1,4 @@
-<img width=100% src="banner-img.png" alt="banner-img">
+<img width=500 src="banner-img.png" alt="banner-img">
    
     
 <h1 align="left">Hi 👋, I'm Joseph David</h1>
