@@ -4,7 +4,7 @@
 <h1 align="left">Hi 👋, I'm Joseph David</h1>
 </hr>
 
-<h2 align="left">A passionate Full-stack Software Developer from Nigeria.</h2>
+<h2 align="left">A Passionate Full-Stack Software Developer From Nigeria.</h2>
 
 
 
