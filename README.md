@@ -1,4 +1,4 @@
-<img src="Peach Welcome Email Header.png" alt="">
+<img width=900  src="Peach Welcome Email Header.png" alt="">
 
    
     
