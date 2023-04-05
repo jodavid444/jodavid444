@@ -1,5 +1,4 @@
 <img src="Peach Welcome Email Header.png" alt="">
-
    
     
 <h1 align="left">Hi 👋, I'm Joseph David</h1>
