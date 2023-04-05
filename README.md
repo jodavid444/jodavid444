@@ -1,4 +1,4 @@
-
+<img src="banner-img.png" alt="banner-img">
    
     
 <h1 align="left">Hi 👋, I'm Joseph David</h1>
