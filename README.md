@@ -1,4 +1,4 @@
-<img width=500 height=250 src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif">
+<img width=500  height=250 src="Peach Welcome Email Header.png" alt="">
 
    
     
