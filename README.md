@@ -1,6 +1,6 @@
 <h2 align="left">Hi 👋, I'm Joseph David</h2>
 
-<img src="Blue White Modern Freelancer Email Header.png" alt="img">
+<img src="Grey Minimalist Modern Social Media Specialist LinkedIn Banner (2).png" alt="img">
 
 </hr>
 
