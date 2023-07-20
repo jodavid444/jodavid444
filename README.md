@@ -1,6 +1,7 @@
 <h2 align="left">Hi 👋, I'm Joseph David</h2>
 
-<img src="Screenshot 2023-04-05 164504.png" alt="">
+<img src="Blue White Modern Freelancer Email Header.png" alt="img">
+
 </hr>
 
 <h2 align="left">A Passionate Full-Stack Software Developer From Nigeria.</h2>
@@ -8,7 +9,7 @@
 
 
 - 🌱 I’m currently learning Full-stack web development in a remote multicultural environment at [Microverse](https://www.microverse.org/)
-- 🔭 I’m currently working on Api, React and other collaborated Projects
+- 🔭 I’m currently working on API, React, and other collaborated Projects
 - 👯 I’m looking to collaborate on React Based Projects
 - 💬 Ask me about Javascript, React, Redux, Ruby on Rails, Python
 - 📫 Reach me through **jodavid444dave@gmail.com**
